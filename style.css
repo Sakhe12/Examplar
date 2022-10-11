@@ -1,0 +1,9 @@
+/* Pseudo-class selector */
+ol li:first-child {
+    background-color: plum;
+    color: rgb(1, 3, 5);
+}
+ol li:last-child {
+    background-color: plum;
+    color:beige
+}
